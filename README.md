@@ -6,7 +6,10 @@ Still in Progress.................
  
  
  # Run 
- run the ['index.html'] file. 
+ run the `index.html` file. 
  
  
- # 
+ # Things to take note
+  Raspberry pi has to be configured properly before use 
+  
+  
