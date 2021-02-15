@@ -79,3 +79,9 @@ text-align: left;
 	left:110px; 
 	/*must use nbsp cause u textalignleft... NBSP will break the alignment with spaces.*/
 }
+.button6{
+	
+	position:absolute;
+	left:110px; 
+	top:75px
+}
