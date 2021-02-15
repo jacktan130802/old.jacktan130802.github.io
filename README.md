@@ -1,4 +1,4 @@
-# jacktan130802.github.io
+# Desc
 Remote plant watering system using flask & thingspeak.
 
 # How to deploy
@@ -8,6 +8,12 @@ Remote plant watering system using flask & thingspeak.
  # Run 
  run the `index.html` file. 
  
+ 
+ # Pre-requisites 
+- A thinkspeak account 
+- A raspberry pi 
+- python IDLE 
+- various electrical components listed
  
  # Things to take note
   Raspberry pi has to be configured properly before use 
