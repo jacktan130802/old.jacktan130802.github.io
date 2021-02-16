@@ -1,4 +1,4 @@
-# Desc
+# Description
 Remote plant watering system using flask & thingspeak.
 
 # How to deploy
