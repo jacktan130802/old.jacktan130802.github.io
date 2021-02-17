@@ -14,6 +14,12 @@ Remote plant watering system using flask & thingspeak.
 - A raspberry pi 
 - python IDLE 
 - various electrical components listed
+    - Buzzer
+    - LED
+    - SG90 Servo motor
+    - LDR
+    - DHT11
+    - Moisture sensor
  
  # Things to take note
   Raspberry pi has to be configured properly before use 
