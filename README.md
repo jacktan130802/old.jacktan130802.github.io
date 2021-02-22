@@ -1,6 +1,11 @@
 # Description
 Remote plant watering system using flask & thingspeak.
 <!-- <h1> Description <h1> -->
+
+# Block Diagram 
+<img src = "20e7f42e-b4b8-44ad-96c1-33a635906ec2.jfif" height="300" width="300" alt="blockdiagram"> 
+
+
 # How to deploy
  The following make use of flask to control water pump and display the statstics in the form of various form of graphs
  
