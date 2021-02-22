@@ -31,10 +31,7 @@ Running https://jacktan130802.github.io/ will give errors as the python file **a
 
 
 # Steps
-```diff
-+NOW 
-```
-i will briefly *run you through how the product will run* 
+Now i will briefly *run you through how the product will run* 
 <!--<span style ="color:red"> Now </span>--> 
 
 
