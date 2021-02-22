@@ -1,0 +1,89 @@
+
+body{
+	margin: 0px; 
+	padding:; 0px;
+}
+
+h1{
+ color: black; 
+ font-size: 35px;
+   margin-block-start: 0em;
+    margin-bottom: 20px;
+    padding-top: 25px;
+    padding-bottom:  25px
+
+}
+
+button{
+	border-radius:30px ;
+	font-size: 25px
+	width : 33% ;
+	height:  35px;
+	 margin: 20px 29px;
+	background-color:#50FD79 ;
+
+}
+button:hover{
+  color: #cda45e;
+}
+
+}
+.button1{
+	position: absolute;
+	
+}
+.container{
+/*	text-align: center;*/
+	position:absolute;                  
+/*      bottom:50%;                          
+     left:50%;   */
+     text-align: left;                       
+            
+
+}
+div.bottom{
+
+      position:absolute;                  
+      bottom:40px;                          
+     left:0;
+     font-size: 20px;      
+     text-align: center;                    
+            
+}
+.topBar{
+	 background-color: #06E0FF;
+
+text-align: left;
+	
+}
+.plant{
+	float: left; /*float CSS property places an element on the left or right side of its container, allowing text and inline elements to wrap around it.*/
+	width:70px;
+	height:50px;
+
+	padding-left: 50px;
+	margin-top: 22px;
+/*	position: absolute;
+	top: 10px;
+	margin-right: : 48%;*/
+
+}
+
+.button4{
+	position: absolute; 
+	/*to use legit spacing	*/
+	left: 380px;
+}
+.button5{
+	position:absolute;	
+	left:110px; 
+	top: 75px;
+	/*must use nbsp cause u textalignleft... NBSP will break the alignment with spaces.*/
+}
+
+.button6{
+	position:absolute;	
+	left:110px; 
+	bottom: 200px;
+	/*must use nbsp cause u textalignleft... NBSP will break the alignment with spaces.*/
+}
