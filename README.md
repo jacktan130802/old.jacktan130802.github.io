@@ -49,4 +49,4 @@ To run and use the whole code, download the **Webapp 2.0** folder. `Web_plants.p
 
 <br>
 <br>
-<h3>NOTE<h3>: Everytime you want to run the flask , remember to to a reset to the tcp/ip. The command to reset will be `fuser -k 5000/tcp`
+Note: Everytime you want to run the flask , remember to to a reset to the tcp/ip. The command to reset will be `fuser -k 5000/tcp`
