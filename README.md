@@ -38,6 +38,6 @@ Remote plant watering system using flask & thingspeak.
 <br>
 
 
-```diff
+`diff
 - My Raspberry Pi
-```
+`
