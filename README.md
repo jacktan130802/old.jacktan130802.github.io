@@ -46,7 +46,7 @@ Remote plant watering system using flask & thingspeak.
 
 
 # To use
-To run and use the whole code, download the **Webapp 2.0** folder. `Web_plants.py` is the main code to be runned. Run the `web_plant.py`. The files at the main branch is just for github.io. <h2>IGNORE IF NOT USED <h2> (Use the webapp folder)
+To run and use the whole code, download the **Webapp 2.0** folder. `Web_plants.py` is the main code to be runned. Run the `web_plant.py`. The files at the main branch is just for github.io. <h2>IGNORE IF NOT USED </h2> (Use the webapp folder)
 
 
 
