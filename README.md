@@ -31,7 +31,7 @@ Running https://jacktan130802.github.io/ will give errors as the python file **a
 
 
 # Steps
-+ Now i will briefly *run you through how the product will run* 
++Now i will briefly *run you through how the product will run* 
 
 
 
