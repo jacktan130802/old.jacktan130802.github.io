@@ -28,11 +28,8 @@ Remote plant watering system using flask & thingspeak.
 Running https://jacktan130802.github.io/ will give errors as the python file **are absent**. To run the complete file, run the full zip file webapp folder (not uploaded as of now) 
 <!-- copy paste exact link inside can already--!>
 
-
-
-# Steps
-
-Now i will briefly *run you through how the product will run* 
+# Step
+  Now i will briefly *run you through how the product will run* 
 <!--<span style ="color:red"> Now </span>--> 
 
 
@@ -43,3 +40,7 @@ Now i will briefly *run you through how the product will run*
 
 <img src = "9d7acc64-3dfb-4c07-a1a7-cbc0cc3be9d1.jfif" height="300" width="300" alt="raspberry"> 
 
+<br>
+<br>
+
+<span style="color:red"> Raspberry </span>
