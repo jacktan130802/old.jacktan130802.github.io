@@ -44,3 +44,10 @@ Running https://jacktan130802.github.io/ will give errors as the python file **a
 <br>
 
 <span style="color:red"> Raspberry </span>
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
