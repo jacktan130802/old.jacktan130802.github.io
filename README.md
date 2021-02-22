@@ -39,11 +39,9 @@ i will briefly *run you through how the product will run*
 
 
 # Set-Up
-
- <p align = "center"> 
-![raspberry](https://user-images.githubusercontent.com/62325379/108713202-d9656100-7552-11eb-92cd-bd8feec0a025.jpg) 
+<div align="center">![raspberry](https://user-images.githubusercontent.com/62325379/108713202-d9656100-7552-11eb-92cd-bd8feec0a025.jpg) 
 <!-- copy paste image to issue and get this link from there -->
-</p>
+
 
 <img src = "raspberry.jpg" height="100" width="10" > 
 
