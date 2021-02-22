@@ -20,11 +20,10 @@ Remote plant watering system using flask & thingspeak.
     - LDR
     - DHT11
     - Moisture sensor
- <p align = "center" > 
+ <!--<p align = "center" > for aligning images-->  
  # Things to take note
   Raspberry pi has to be configured properly before use 
   
-  </p>
   
 Running https://jacktan130802.github.io/ will give errors as the python file **are absent**. To run the complete file, run the full zip file webapp folder (not uploaded as of now) 
 <!-- copy paste exact link inside can already--!>
@@ -41,10 +40,10 @@ i will briefly *run you through how the product will run*
 
 # Set-Up
 
-
+ <p align = "center"> 
 ![raspberry](https://user-images.githubusercontent.com/62325379/108713202-d9656100-7552-11eb-92cd-bd8feec0a025.jpg) 
 <!-- copy paste image to issue and get this link from there -->
-
+</p>
 
 <img src = "raspberry.jpg" height="100" width="10" > 
 
