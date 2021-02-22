@@ -20,6 +20,7 @@ Remote plant watering system using flask & thingspeak.
     - LDR
     - DHT11
     - Moisture sensor
+    - An ADC chip for RASPBERRY PI
  <!--<p align = "center" > for aligning images-->  
  # Things to take note
   Raspberry pi has to be configured properly before use 
