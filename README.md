@@ -3,7 +3,7 @@ Remote plant watering system using flask & thingspeak.
 <!-- <h1> Description <h1> -->
 
 # Block Diagram 
-<img src = "20e7f42e-b4b8-44ad-96c1-33a635906ec2.jfif" height="300" width="300" alt="blockdiagram"> 
+<img src = "20e7f42e-b4b8-44ad-96c1-33a635906ec2.jfif" height="300" width="400" alt="blockdiagram"> 
 
 
 # How to deploy
