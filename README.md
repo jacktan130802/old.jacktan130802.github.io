@@ -43,5 +43,5 @@ i will briefly *run you through how the product will run*
 <!-- copy paste image to issue and get this link from there -->
 
 
-<img src = "raspberry.jpg" height="100" width="10" alt="raspberry"> blahs 
+<img src = "9d7acc64-3dfb-4c07-a1a7-cbc0cc3be9d1.jfif" height="100" width="10" alt="raspberry"> blahs 
 
