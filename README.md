@@ -1,4 +1,4 @@
-# Description
+<h1> Description <h1>
 Remote plant watering system using flask & thingspeak.
 
 # How to deploy
@@ -31,7 +31,7 @@ Running https://jacktan130802.github.io/ will give errors as the python file **a
 
 
 # Steps
-+Now i will briefly *run you through how the product will run* 
+<span style ="color:red"> Now </span> i will briefly *run you through how the product will run* 
 
 
 
@@ -42,4 +42,5 @@ Running https://jacktan130802.github.io/ will give errors as the python file **a
 <!-- copy paste image to issue and get this link from there -->
 
 
+<img src = "raspberry.jpg" height="100" width="10" > 
 
