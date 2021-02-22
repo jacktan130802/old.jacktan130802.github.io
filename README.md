@@ -43,10 +43,10 @@ Remote plant watering system using flask & thingspeak.
 ```
 
 
-
+<br>
 # To use
 To run and use the whole code, download the **Webapp 2.0** folder. `Web_plants.py` is the main code to be runned. Run the `web_plant.py`. 
 
 <br>
 
-Note : Everytime you want to run the flask , remember to to a reset to the tcp/ip. The command to reset will be `fuser -k 5000/tcp`
+<h3>NOTE<h3> : Everytime you want to run the flask , remember to to a reset to the tcp/ip. The command to reset will be `fuser -k 5000/tcp`
