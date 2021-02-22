@@ -8,7 +8,7 @@ Remote plant watering system using flask & thingspeak.
  # Run 
  run the `index.html` file. 
  
- 
+
  # Pre-requisites 
 - A thinkspeak account 
 - A raspberry pi 
@@ -39,9 +39,9 @@ i will briefly *run you through how the product will run*
 
 
 # Set-Up
-<div align="center">![raspberry](https://user-images.githubusercontent.com/62325379/108713202-d9656100-7552-11eb-92cd-bd8feec0a025.jpg)  </div>
+<!--<div align="center">![raspberry](https://user-images.githubusercontent.com/62325379/108713202-d9656100-7552-11eb-92cd-bd8feec0a025.jpg)  </div>
 <!-- copy paste image to issue and get this link from there -->
 
 
-<img src = "9d7acc64-3dfb-4c07-a1a7-cbc0cc3be9d1.jfif" height="100" width="10" alt="raspberry"> blahs 
+<img src = "9d7acc64-3dfb-4c07-a1a7-cbc0cc3be9d1.jfif" height="300" width="100" alt="raspberry"> 
 
