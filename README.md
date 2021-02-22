@@ -37,7 +37,7 @@ Now i will briefly *run you through how the product will run*
 # Set-Up
 
 
-![raspberry](https://user-images.githubusercontent.com/62325379/108713202-d9656100-7552-11eb-92cd-bd8feec0a025.jpg)
+![raspberry](https://user-images.githubusercontent.com/62325379/108713202-d9656100-7552-11eb-92cd-bd8feec0a025.jpg) #copy paste image to issue
 
 
 
