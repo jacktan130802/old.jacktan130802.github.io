@@ -20,10 +20,11 @@ Remote plant watering system using flask & thingspeak.
     - LDR
     - DHT11
     - Moisture sensor
- 
+ <p align = "center" > 
  # Things to take note
   Raspberry pi has to be configured properly before use 
   
+  </p>
   
 Running https://jacktan130802.github.io/ will give errors as the python file **are absent**. To run the complete file, run the full zip file webapp folder (not uploaded as of now) 
 <!-- copy paste exact link inside can already--!>
