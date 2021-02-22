@@ -1,6 +1,6 @@
-<h1> Description <h1>
+# Description
 Remote plant watering system using flask & thingspeak.
-
+<!-- <h1> Description <h1> -->
 # How to deploy
  The following make use of flask to control water pump and display the statstics in the form of various form of graphs
  
@@ -31,8 +31,11 @@ Running https://jacktan130802.github.io/ will give errors as the python file **a
 
 
 # Steps
-<span style ="color:red"> Now </span> i will briefly *run you through how the product will run* 
-
+```diff
++NOW 
+```
+i will briefly *run you through how the product will run* 
+<!--<span style ="color:red"> Now </span>--> 
 
 
 # Set-Up
