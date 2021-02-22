@@ -23,13 +23,12 @@ Remote plant watering system using flask & thingspeak.
  <!--<p align = "center" > for aligning images-->  
  # Things to take note
   Raspberry pi has to be configured properly before use 
-  
-  
-Running https://jacktan130802.github.io/ will give errors as the python file **are absent**. To run the complete file, run the full zip file webapp folder (not uploaded as of now) 
+ 
+ Running https://jacktan130802.github.io/ will give errors as the python file **are absent**. To run the complete file, run the full zip file webapp folder (not uploaded as of now) 
 <!-- copy paste exact link inside can already--!>
 
 # Step
-  Now i will briefly *run you through how the product will run* 
+  Now i will briefly run you through how the product will run
 <!--<span style ="color:red"> Now </span>--> 
 
 
@@ -44,10 +43,10 @@ Running https://jacktan130802.github.io/ will give errors as the python file **a
 <br>
 
 <span style="color:red"> Raspberry </span>
-```diff
+<!--```diff
 - text in red
 + text in green
 ! text in orange
 # text in gray
 @@ text in purple (and bold)@@
-```
+``` -->
