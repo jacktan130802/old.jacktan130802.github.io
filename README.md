@@ -26,7 +26,7 @@ Remote plant watering system using flask & thingspeak.
  # Things to take note
   Raspberry pi has to be configured properly before use 
  
- Running https://jacktan130802.github.io/ will give you a stimulation of how the website will look like.IIt will give errors as the python file **are absent**. To run the complete file, run the full zip file webapp folder (download the folder.)
+ Running https://jacktan130802.github.io/old.jacktan130802.github.io will give you a stimulation of how the website will look like.IIt will give errors as the python file **are absent**. To run the complete file, run the full zip file webapp folder (download the folder.)
 <!-- copy paste exact link inside can already--!>
 
 
